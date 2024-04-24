@@ -6,10 +6,10 @@ subtitle: "Humans are multi-faceted. Beyond tech, I indulge in the
 following:"
 ---
 
-- Amo caminar en la naturaleza
+- I love walking in nature
 
-- Disfruto el chocolate caliente
+- I enjoy hot chocolate
 
-- Me gusta cantar y tocar la guitarra
+- I like to sing and play the guitar
 
-- Los truenos y el sonido de la lluvia me relajan
+- The thunder and the sound of rain relax me

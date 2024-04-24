@@ -1,21 +1,18 @@
 ---
 layout: ../layouts/Blog.astro
 poster: "/images/philosophies.webp"
-title: "My Guiding Philosophies"
-subtitle: "These are the philosophies that guide every decision and 
-action I make."
+title: "Some Good Quotes"
+subtitle: "These are some quotes I find interesting and uplifting."
 ---
 
-- **El amor** hacia todos los seres es lo más importante. <a href="https://www.biblegateway.com/passage/?search=1+Corintios+16%3A13&version=RVR1960" target="_blank">1 Corintios 16:13</a>
+- Be on your guard; stand firm in the faith; be courageous; be strong. **Do everything in love**. <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+16%3A13-14&version=NIV" target="_blank">_1 Corinthians 16:13_</a>
 
-- La vida es maravillosa y está llena de Oportunidades.
+- Rejoice! Strive for full restoration, encourage one another, **be of one mind, live in peace**. And the God of love and peace will be with you. <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+13%3A11&version=NIV" target="_blank">_2 Corinthians 13:11_</a>
 
-- Puedo lograr grandes cosas si construyo hábitos que me lleven en esa dirección, con disciplina, coraje y amor.
+- Everything in life must be an **investment**.
 
-- Dentro de mí es el único lugar donde están los tesoros y la verdad
+- To change the world, you only need to perceive it in a different light. _W. Doyle Staples_
 
-- ¿Dónde estoy? **Aqui** ¿Qué momento es? **Ahora** ¿Qué soy? Este momento
+- A journey of a thousand miles begins with a single step. _Lao Tzu_
 
-- Come (Vive) con calma e **intensamente**. Así tal vez podrías saborear algo.
-
-- Uno debe buscar primero la **renovación en el corazón** del hombre
+- We have to **think about the big things while doing the little things**, so that all the little things go in the right direction. _Alvin Toffler_

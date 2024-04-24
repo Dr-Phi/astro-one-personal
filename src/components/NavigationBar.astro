@@ -9,7 +9,7 @@ import ThemeToggler from "./ThemeToggler.astro";
     </li>
 
     <li>
-      <a href="/philosophies">Philosophies</a>
+      <a href="/philosophies">Good Quotes</a>
     </li>
     <li>
       <a href="/beyond-tech">Beyond technology</a>
@@ -55,6 +55,7 @@ import ThemeToggler from "./ThemeToggler.astro";
   const activeNavigationElement = document.querySelector(
     `nav a[href="${pathname}"]`
   );
+
   if (activeNavigationElement) {
     activeNavigationElement.classList.add("active");
   }
