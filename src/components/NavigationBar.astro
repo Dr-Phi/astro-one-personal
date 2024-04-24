@@ -19,6 +19,11 @@ import ThemeToggler from "./ThemeToggler.astro";
 </nav>
 
 <style>
+  @media (max-width: 570px) {
+    ul {
+      flex-direction: column;
+    }
+  }
   nav {
     display: flex;
     align-items: flex-start;
